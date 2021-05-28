@@ -1,0 +1,16 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "pteading": "Blog 1",
+      "ptext": "This is my blog",
+      "author": "S Khan"
+    },
+    {
+      "id": 2,
+      "pteading": "Blog 2",
+      "ptext": "This is blog 2",
+      "author": "John Smith"
+    }
+  ]
+}
